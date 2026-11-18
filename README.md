@@ -1,101 +1,112 @@
-# 🚀 programmermxcode | TikTok Content Repository
+# 💻 ProgrammerMXCode
 
-![Content Creator](https://img.shields.io/badge/Content-Creator-blue)
-![Videos](https://img.shields.io/badge/Goal-100%20Videos-purple)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Desarrollo web · Diseño de interfaces · Código fuente
 
-## 📌 About the Project
+Repositorio oficial de **ProgrammerMXCode**, donde se recopilan los proyectos desarrollados y compartidos en TikTok.
 
-Welcome to the official repository of **programmermxcode**.
+Cada proyecto representa una oportunidad para experimentar, aprender y construir interfaces web modernas mediante código.
 
-This repository documents the development of creative programming content for TikTok, including source code, web designs, animations, visual effects, and educational projects.
+El propósito de este repositorio es compartir proyectos reales, documentar su desarrollo y construir un portafolio público de programación.
 
-Our mission is to create engaging programming content, build a developer community, and share practical projects with the world.
+---
 
-## 🎯 Main Objective
+## 🚀 Proyectos publicados
 
-Create and document **100 programming videos** for TikTok, maintaining the source code, creative resources, publication information, and performance metrics for each project.
+\<details>
+\<summary>\<strong>Bloque 01 — HTML + CSS\</strong>\</summary>
 
-## 🛠️ Technologies
+Proyectos enfocados en diseño web, creatividad, interfaces modernas y efectos visuales utilizando HTML5 y CSS3.
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI/UX Design
-- Web Animations
+| #  | Proyecto            | Tecnologías  | Estado            |
+| -- | ------------------- | ------------ | ----------------- |
+| 01 | Login moderno       | HTML5 · CSS3 | ✅ Publicado       |
+| 02 | Login Glassmorphism | HTML5 · CSS3 | ✅ Publicado       |
+| 03 | Login con animación | HTML5 · CSS3 | ✅ Publicado       |
+| 04 | Login futurista     | HTML5 · CSS3 | 🔄 En preparación |
+| 05 | Login minimalista   | HTML5 · CSS3 | 🔄 En preparación |
 
-Additional technologies will be incorporated as the project evolves.
+\</details>
 
-## 📂 Repository Structure
+---
+
+## 🖥️ Tecnologías y herramientas
+
+\<p>   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" /> \</p>
+
+---
+
+## 📂 Organización del repositorio
 
 ```text
 programmermxcode-tiktok/
 │
 ├── README.md
 │
-├── videos/
-│   ├── video-001-modern-login/
-│   ├── video-002-glassmorphism-login/
-│   └── video-003-animated-neon-login/
-│
-├── resources/
-│   ├── branding/
-│   └── templates/
-│
-├── analytics/
-│   └── performance.csv
-│
-└── docs/
-    ├── content-plan.md
-    └── workflow.md
+└── bloque-01-html-css/
+    │
+    ├── video-01-login-moderno/
+    │   ├── index.html
+    │   └── style.css
+    │
+    ├── video-02-glassmorphism/
+    │   ├── Index.html
+    │   └── style.css
+    │
+    ├── video-03-login-animado/
+    │   ├── index.html
+    │   └── style.css
+    │
+    ├── video-04-login-futurista/
+    │   ├── index.html
+    │   └── style.css
+    │
+    └── video-05-login-minimalista/
+        ├── index.html
+        └── style.css
 ```
 
-## 🎬 Video Projects
-
-| # | Project | Technologies | Status |
-|---|---|---|---|
-| 001 | Modern Login | HTML, CSS | In progress |
-| 002 | Glassmorphism Login | HTML, CSS | In progress |
-| 003 | Animated Neon Login | HTML, CSS, JS | Planned |
-
-More projects will be added as the 100-video challenge progresses.
-
-## 📊 Content Performance
-
-We track the performance of our publications to understand audience engagement and improve future content.
-
-Metrics:
-
-- Views
-- Likes
-- Comments
-- Shares
-- Followers gained
-
-## 🔄 Content Creation Workflow
-
-1. Generate a creative programming idea.
-2. Develop the source code.
-3. Test and refine the visual result.
-4. Record and edit the video.
-5. Prepare the TikTok description and hashtags.
-6. Publish the content.
-7. Document the project in GitHub.
-8. Analyze performance metrics.
-
-## 📱 Social Media
-
-**TikTok:** [@programmermxcode](https://www.tiktok.com/@programmermxcode)
-
-## 📈 Our Goal
-
-**100 videos. One programming community. Endless possibilities.**
-
-Every project is an opportunity to learn, create, and inspire.
+Cada proyecto cuenta con sus archivos independientes, permitiendo consultar, ejecutar y reutilizar el código fuente.
 
 ---
 
-⭐ Follow the journey of programmermxcode!
+## 📥 Clonar repositorio
+
+Puedes obtener una copia local del repositorio mediante Git:
+
+```bash
+git clone https://github.com/programermxcode/programmermxcode-tiktok.git
+```
+
+---
+
+## 📊 Estado actual
+
+| Indicador                      |    Resultado |
+| ------------------------------ | -----------: |
+| Proyectos desarrollados        |            5 |
+| Proyectos publicados en GitHub |            3 |
+| Proyectos en preparación       |            2 |
+| Tecnologías principales        | HTML5 y CSS3 |
+
+---
+
+## 🌐 ProgrammerMXCode en GitHub
+
+**Repositorio:** [programmermxcode-tiktok](https://github.com/programmermxcode/programmermxcode-tiktok)
+
+**Usuario:** [@programermxcode](https://github.com/programermxcode)
+
+---
+
+## ⭐ Apoya este proyecto
+
+Si este repositorio te resulta útil:
+
+- Dale una estrella ⭐.
+- Explora los proyectos y su código fuente.
+- Comparte el repositorio con otros desarrolladores.
+- Sígueme para conocer las nuevas creaciones.
+
+---
+
+\<p align="center">   \<strong>PROGRAMMERMXCODE\</strong>   \<br/>   \<em>Transformando ideas en código.\</em>   \<br/>\<br/>   💻 Construyendo. Aprendiendo. Compartiendo. 🚀 \</p>
